@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
  * Clase que genera trabajadores
  * @author Jose Lopez
  * @version 1.0
- * @since 08/02/2021
+ * @since 8.0
  */
 public class Trabajador {
     
